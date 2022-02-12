@@ -1,4 +1,5 @@
 import pandas
-import matplotlib as plt
+import numpy
 
-x = 10
+import matplotlib as plt
+x = 20
