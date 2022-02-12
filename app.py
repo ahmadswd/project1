@@ -1,3 +1,3 @@
-x = 10
+import matplotlib as plt
 
-print("Welcome")
+x = 10
