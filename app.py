@@ -1,5 +1,7 @@
+import config
 import pandas
 import numpy
 
 import matplotlib as plt
-x = 20
+z = 20
+y =10
